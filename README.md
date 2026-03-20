@@ -23,7 +23,6 @@ Saubere Dokumentation und Präsentation (README, Screenshots, Live-Demo)# Lernpe
 
 Objektorientierung ist wichtig für grössere Projekte. Ich merke, dass ich langsam strukturierter denke und Programme besser plane.
 
----
 
 **27.02.2026**
 
@@ -35,13 +34,13 @@ Objektorientierung ist wichtig für grössere Projekte. Ich merke, dass ich lang
 
 Ich habe gemerkt, dass es nicht nur wichtig ist, gute Projekte zu haben, sondern diese auch gut erklären zu können. Kommunikation ist genauso wichtig wie Technik.
 
----
+
 
 **06.03.2026**
 
 * [x] Ich teste weitere KI APIs für meine Projekte.
 * [x] Ich erweitere mein n8n Projekt mit neuen Automationen.
-* [x]  Ich arbeite weiter an Bewerbungen und bereite mich auf die Vorstellungsgespräch am 09.03.26
+  [x] Ich arbeite weiter an Bewerbungen und bereite mich auf die Vorstellungsgespräch am 09.03.26
 
 # Reflexion:
 
@@ -63,9 +62,9 @@ Wiederholung ist extrem wichtig. Ich merke, dass ich Dinge besser verstehe, wenn
 
 **20.03.2026**
 
-* [x] Ich reflektiere meine gesamte Lernperiode und überprüfe mein Notenziel.
-* [x] Ich verbessere gezielt meine Projekte für Bewerbungen (Feinschliff).
-* [x] Ich plane die nächsten Schritte für Praktikum oder Weiterbildung.
+* [ ] Ich reflektiere meine gesamte Lernperiode und überprüfe mein Notenziel.
+* [ ] Ich verbessere gezielt meine Projekte für Bewerbungen (Feinschliff).
+* [ ] Ich plane die nächsten Schritte für Praktikum oder Weiterbildung.
 
 
 
