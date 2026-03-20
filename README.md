@@ -36,21 +36,9 @@ Ich habe gemerkt, dass es nicht nur wichtig ist, gute Projekte zu haben, sondern
 
 
 
-**06.03.2026**
-
-* [x] Ich teste weitere KI APIs für meine Projekte.
-* [x] Ich erweitere mein n8n Projekt mit neuen Automationen.
-  [x] Ich arbeite weiter an Bewerbungen und bereite mich auf die Vorstellungsgespräch am 09.03.26
-
-# Reflexion:
-
-KI Integration macht meine Projekte deutlich spannender. Ich sehe, wie ich mich von anderen Bewerbern abheben kann, wenn ich solche Technologien nutze.
-
----
-
 **13.03.2026**
 
-* [x] Ich wiederhole wichtige Themen aus den Modulen zur Prüfungsvorbereitung.
+* [x] Ich arbeite weiter an Bewerbungen und bereite mich auf die Vorstellungsgespräch am 09.03.26
 * [x] Ich arbeite gezielt an meinen Schwächen (z. B. Datenbanken, Logik).
 * [x] Ich halte meine Projekte aktuell und dokumentiere sie sauber.
 
